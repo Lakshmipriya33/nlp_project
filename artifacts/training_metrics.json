@@ -1,0 +1,5 @@
+{
+  
+  "lstm": {"best_val_accuracy": 0.7748},
+  "bert": {"best_val_accuracy": 0.8359}
+}
